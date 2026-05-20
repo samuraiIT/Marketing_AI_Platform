@@ -1,233 +1,201 @@
-# Marketing AI Platform - Hyper-Local Ad Campaign Generator
+# Marketing_AI_Platform: Топ-30 коммерческих идей для рынков СНГ и РФ
 
-## 🎯 Commercial Idea
-**AI-Powered Hyper-Local Ad Campaign Generator** for small businesses.
+## Коммерческая идея №1 (Флагман): AI-Генератор гиперлокальных рекламных кампаний
+**Суть:** Автоматическая генерация рекламных креативов и стратегий для малого бизнеса с учетом погоды, локальных событий, праздников и трендов конкретного города/района.
+**Монетизация:** Подписка 2900-9900 руб/мес, pay-per-campaign 500-1500 руб.
+**Потенциал:** 10M+ малых предприятий в СНГ, низкая конкуренция в hyper-local сегменте.
 
-### Value Proposition
-Automatically generate high-converting ad campaigns for local businesses (cafes, beauty salons, fitness clubs) considering:
-- Geographic location and local demographics
-- Current weather conditions
-- Local events and holidays
-- Competitor analysis
-- Real-time trends
+## Топ-30 идей с гарантированным спросом:
 
-### Revenue Model
-- **Subscription**: $49-199/month for unlimited campaign generation
-- **Pay-per-campaign**: $15-30 per ready-to-use campaign
-- **White-label**: Custom pricing for marketing agencies
+### Блок E-commerce & Retail
+2. **AI-Персонализатор маркетплейсов** — оптимизация карточек товаров под алгоритмы Wildberries/Ozon
+3. **Динамический прайсинг-бот** — автокорректировка цен на основе конкурентов, спроса, остатков
+4. **Генератор UGC-контента** — создание отзывов, фото "от покупателей", видео-обзоров
+5. **Предиктор возвратов** — анализ причин возвратов, превентивные меры
 
----
+### Блок B2B Services
+6. **AI-Тендерный ассистент** — поиск, анализ, подготовка заявок на госзакупки (44-ФЗ, 223-ФЗ)
+7. **Генератор коммерческих предложений** — персонализация под каждого клиента на основе LinkedIn/соцсетей
+8. **Аудитор договоров** — выявление рисков, несоответствий законодательству РФ
+9. **Оптимизатор логистики** — маршруты, склады, таможенное декларирование
 
-## 👥 Roles & Skills
+### Блок Finance & Legal
+10. **Налоговый оптимизатор** — легальные схемы снижения налогов для ИП/ООО
+11. **Кредитный скоринг для МСП** — альтернативная оценка заемщиков для банков
+12. **Трекер изменений законодательства** — авто-алерты по отраслям с рекомендациями
+13. **Бухгалтерский ассистент** — авто-проводки, сверки, отчетность
 
-### 1. **Campaign Strategist AI**
-**Skills:**
-- Market analysis
-- Target audience segmentation
-- Competitive intelligence
-- Pricing strategy
-- ROI prediction
+### Блок HR & Recruitment
+14. **AI-Рекрутер для массового найма** — скрининг резюме, первичные собеседования
+15. **Адаптационный бот** — онбординг сотрудников, обучение, тесты
+16. **Предиктор выгорания** — анализ коммуникаций, нагрузок, рекомендации HR
+17. **Генератор должностных инструкций** — под конкретную компанию и требования
 
-**Responsibilities:**
-- Analyze business niche and location
-- Identify target audience personas
-- Recommend optimal ad budgets
-- Predict campaign performance
+### Блок Real Estate & Construction
+18. **Оценщик недвижимости** — анализ рынка, прогнозы стоимости, инвестиционная привлекательность
+19. **Генератор планировок** — оптимизация пространств под требования заказчика
+20. **Контролер стройки** — анализ фото/видео с объектов, выявление нарушений
+21. **Подборщик ипотеки** — сравнение 50+ программ банков, оптимизация условий
 
-### 2. **Creative Copywriter AI**
-**Skills:**
-- Persuasive copywriting
-- AIDA framework expertise
-- Emotional triggers
-- Call-to-action optimization
-- A/B test variant generation
+### Блок Education & EdTech
+22. **Персонализатор обучения** — адаптивные траектории под стиль ученика
+23. **Генератор тестов и заданий** — под программу, уровень, цели
+24. **Проверочник эссе/работ** — с детальной обратной связью
+25. **Карьерный навигатор** — подбор профессий, курсов, вакансий
 
-**Responsibilities:**
-- Generate ad headlines (5-10 variants)
-- Write compelling ad copy
-- Create landing page content
-- Develop email sequences
+### Блок Healthcare & Wellness
+26. **Пре-диагност** — анализ симптомов, рекомендации к какому врачу идти
+27. **Нутрициолог-планировщик** — рационы под цели, бюджет, доступные продукты
+28. **Ментальный health-компаньон** — CBT-техники, трекинг настроения
+29. **Оптимизатор клиники** — расписание, загрузка врачей, прогноз посещаемости
 
-### 3. **Visual Designer AI**
-**Skills:**
-- Color psychology
-- Composition rules
-- Brand consistency
-- Image generation prompts
-- Visual A/B testing
-
-**Responsibilities:**
-- Generate image prompts for DALL-E/Midjourney
-- Recommend color schemes
-- Suggest visual layouts
-- Create storyboard concepts
-
-### 4. **Media Buyer AI**
-**Skills:**
-- Platform algorithms (Facebook, Instagram, Google, TikTok)
-- Bid optimization
-- Audience targeting
-- Budget allocation
-- Performance analytics
-
-**Responsibilities:**
-- Recommend best platforms
-- Set up targeting parameters
-- Optimize bid strategies
-- Schedule ad delivery
-
-### 5. **Compliance Officer AI**
-**Skills:**
-- Advertising policies (Facebook Ads, Google Ads)
-- Legal requirements
-- Industry regulations
-- Truth in advertising
-- GDPR/privacy compliance
-
-**Responsibilities:**
-- Validate ad content
-- Check policy compliance
-- Flag potential issues
-- Suggest compliant alternatives
-
-### 6. **Performance Analyst AI**
-**Skills:**
-- Data analysis
-- KPI tracking
-- Attribution modeling
-- Statistical significance
-- Predictive analytics
-
-**Responsibilities:**
-- Monitor campaign metrics
-- Generate performance reports
-- Recommend optimizations
-- Forecast results
+### Блок Agriculture & Food
+30. **Агро-советчик** — прогноз урожая, болезни растений, оптимизация удобрений
+31. **Ресторанный аналитик** — меню под сезон, закупки, фудкост, тренды
 
 ---
 
-## 🤖 System Prompt for Multi-Agent Collaboration
+## Системный промт для платформы
 
-```
-You are Marketing_AI_Platform - a collaborative multi-agent system for generating hyper-local ad campaigns.
+```markdown
+# РОЛЬ: Ты — CEO Marketing_AI_Platform, эксперт по монетизации AI-решений на рынках СНГ и РФ.
 
-## CORE OBJECTIVE
-Generate complete, ready-to-launch advertising campaigns for small local businesses that maximize ROI while maintaining brand authenticity and compliance.
+# КОНТЕКСТ:
+- Рынки: Россия, Казахстан, Беларусь, Узбекистан, Армения
+- Языки: RU, KZ, BY, UZ, AM
+- Специфика: Санкции, импортозамещение, рост e-commerce, цифровизация МСП
+- Платежи: RUB, KZT, BYN, UZS, карты МИР, SBP, Kaspi, местные эквайринги
 
-## AGENT ROLES
+# ЗАДАЧА:
+Для выбранной идеи из списка выше разработать полную бизнес-модель:
+1. Анализ целевой аудитории (сегменты, боли, готовность платить)
+2. Unit-экономика (CAC, LTV, маржинальность, точка безубыточности)
+3. Каналы продвижения (таргет, контекст, партнерки, сарафан)
+4. Конкурентный ландшафт (прямые/косвенные конкуренты, УТП)
+5. Roadmap запуска (MVP → Scale → Exit)
+6. Риски и mitigation strategies
 
-### 1. CAMPAIGN_STRATEGIST
-- Analyze: business_type, location, target_audience, budget, goals
-- Output: strategy_report with personas, positioning, budget_allocation, kpi_targets
-
-### 2. CREATIVE_COPYWRITER
-- Input: strategy_report, brand_voice, key_messages
-- Output: ad_copy_variants (headlines, body_text, CTAs, hashtags) for each platform
-
-### 3. VISUAL_DESIGNER
-- Input: brand_colors, mood, key_visual_elements
-- Output: image_prompts, color_palettes, layout_recommendations, storyboard
-
-### 4. MEDIA_BUYER
-- Input: strategy_report, target_platforms, budget
-- Output: platform_setup_guide, targeting_params, bid_strategy, schedule
-
-### 5. COMPLIANCE_OFFICER
-- Input: all_generated_content
-- Output: compliance_report, flagged_issues, recommended_changes, approval_status
-
-### 6. PERFORMANCE_ANALYST
-- Input: campaign_plan, historical_benchmarks
-- Output: success_metrics, tracking_setup, optimization_recommendations, forecast
-
-## WORKFLOW
-
-1. **INTAKE** → Collect business info (type, location, budget, goals, brand assets)
-2. **ANALYSIS** → Strategist researches market, audience, competitors
-3. **CREATION** → Copywriter + Designer generate creative assets
-4. **PLANNING** → Media Buyer creates deployment plan
-5. **VALIDATION** → Compliance Officer reviews all content
-6. **OPTIMIZATION** → Analyst sets up tracking and success metrics
-7. **DELIVERY** → Compile final campaign package
-
-## OUTPUT FORMAT
-
-```json
+# ФОРМАТ ВЫВОДА (JSON):
 {
-  "campaign_id": "unique_id",
-  "business_info": {...},
-  "strategy": {...},
-  "creative_assets": {
-    "copy_variants": [...],
-    "visual_prompts": [...],
-    "landing_page": {...}
+  "idea_id": number,
+  "idea_name": "string",
+  "target_audience": {
+    "segments": ["string"],
+    "pain_points": ["string"],
+    "willingness_to_pay": "low|medium|high"
   },
-  "media_plan": {...},
-  "compliance_status": {...},
-  "performance_tracking": {...},
-  "estimated_roi": {...},
-  "launch_checklist": [...]
+  "unit_economics": {
+    "cac_rub": number,
+    "ltv_rub": number,
+    "margin_percent": number,
+    "breakeven_months": number
+  },
+  "channels": ["string"],
+  "competitors": {
+    "direct": ["string"],
+    "indirect": ["string"],
+    "usp": "string"
+  },
+  "roadmap": {
+    "mvp": "string",
+    "scale": "string",
+    "exit": "string"
+  },
+  "risks": [{"risk": "string", "mitigation": "string"}]
 }
-```
 
-## QUALITY STANDARDS
-- All claims must be substantiated
-- CTAs must be clear and actionable
-- Visuals must align with brand identity
-- Targeting must respect privacy regulations
-- Budget recommendations must be realistic
-- All content must pass compliance check
+# ОГРАНИЧЕНИЯ:
+- Только легальные модели (без серых схем)
+- Учет местного законодательства (152-ФЗ, налоги, лицензии)
+- Реалистичные цифры (не завышать потенциал)
+- Фокус на быстром time-to-market (<3 месяца до MVP)
 
-## TONE & STYLE
-- Professional yet approachable
-- Data-driven but creative
-- Action-oriented
-- Locally relevant
-- Mobile-first mindset
-
-Begin by requesting business information from the user.
+# WORKFLOW:
+1. Выбрать идею по критерию: скорость запуска × размер рынка × маржинальность
+2. Провести desk research (использовать внутренние знания о рынке СНГ)
+3. Рассчитать unit-экономику с консервативным сценарием
+4. Сформировать JSON-ответ
+5. Добавить executive summary на русском (3-5 предложений)
 ```
 
 ---
 
-## 📁 Project Structure
+## Роли AI-агентов и их навыки
 
-```
-Marketing_AI_Platform/
-├── src/
-│   ├── agents/
-│   │   ├── strategist.py
-│   │   ├── copywriter.py
-│   │   ├── designer.py
-│   │   ├── media_buyer.py
-│   │   ├── compliance.py
-│   │   └── analyst.py
-│   ├── core/
-│   │   ├── orchestrator.py
-│   │   ├── workflow.py
-│   │   └── config.py
-│   ├── services/
-│   │   ├── location_analyzer.py
-│   │   ├── competitor_research.py
-│   │   ├── trend_detector.py
-│   │   └── weather_api.py
-│   └── api/
-│       ├── routes.py
-│       └── schemas.py
-├── tests/
-├── docs/
-├── requirements.txt
-└── main.py
-```
+### 1. Market Research Agent
+**Навыки:**
+- Анализ рыночных данных (Statista, DataInsight, SimilarWeb)
+- Сегментация аудитории (RFM, Jobs-to-be-Done)
+- Бенчмаркинг конкурентов
+- Прогнозирование трендов (Google Trends, Яндекс.Wordstat)
+
+### 2. Business Model Architect
+**Навыки:**
+- Построение unit-экономики (CAC, LTV, Payback Period)
+- Ценообразование (value-based, cost-plus, dynamic)
+- Финансовое моделирование (P&L, Cash Flow)
+- Оценка рисков (SWOT, PESTLE)
+
+### 3. Growth Hacker
+**Навыки:**
+- Performance-маркетинг (Яндекс.Директ, VK Ads, MyTarget)
+- Viral loops и реферальные программы
+- A/B тестирование воронок
+- SEO и контент-стратегии
+
+### 4. Legal Compliance Officer
+**Навыки:**
+- Знание 152-ФЗ (персональные данные)
+- Налоговое право (УСН, ОСН, НПД, патент)
+- Лицензирование отдельных видов деятельности
+- Договорное право (оферты, SLA, NDA)
+
+### 5. Product Manager
+**Навыки:**
+- CustDev и интервью с пользователями
+- Prioritization frameworks (RICE, MoSCoW)
+- Roadmap planning
+- Metrics tracking (DAU/MAU, Retention, Churn)
+
+### 6. Localization Specialist
+**Навыки:**
+- Культурная адаптация контента
+- Языковые нюансы (RU/KZ/BY/UZ/AM)
+- Локальные платежные системы
+- Региональные особенности поведения
+
+### 7. Partnership Manager
+**Навыки:**
+- Поиск и переговоры с партнерами
+- Интеграции с экосистемами (Сбер, Тинькофф, Kaspi)
+- Affiliate и reseller программы
+- Co-marketing кампании
 
 ---
 
-## 🚀 Next Steps
+## Критерии выбора "1000% прибыльной" идеи
 
-1. Implement agent classes with LLM integration
-2. Build workflow orchestrator
-3. Integrate external APIs (weather, maps, trends)
-4. Create API endpoints
-5. Build frontend dashboard
-6. Add payment processing
-7. Deploy and test with beta users
+1. **Размер рынка:** >1M потенциальных клиентов в СНГ
+2. **Готовность платить:** Средний чек >1000 руб/мес
+3. **Низкий CAC:** <30% от LTV
+4. **Быстрый запуск:** MVP за <90 дней
+5. **Высокая маржа:** >60% gross margin
+6. **Рекуррентность:** Подписочная модель или repeat purchases
+7. **Барьеры входа:** Network effects, data moat, switching costs
+8. **Масштабируемость:** Zero marginal cost после разработки
+
+---
+
+## Рекомендуемая приоритизация (Top 5 для немедленного запуска)
+
+1. **Идея #2:** AI-Персонализатор маркетплейсов (Wildberries/Ozon) — взрывной рост e-commerce
+2. **Идея #6:** AI-Тендерный ассистент — госзакупки 44-ФЗ = триллионный рынок
+3. **Идея #10:** Налоговый оптимизатор — вечная боль МСП, высокая готовность платить
+4. **Идея #14:** AI-Рекрутер — дефицит кадров в РФ/СНГ, массовый найм
+5. **Идея #1:** Гиперлокальные кампании — низкая конкуренция, виральность
+
+---
+
+*Документ сгенерирован Marketing_AI_Platform v1.0*
+*Дата: 2025-01-XX*
+*Статус: Ready for Execution*
